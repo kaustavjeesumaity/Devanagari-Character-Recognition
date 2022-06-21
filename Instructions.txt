@@ -1,0 +1,16 @@
+Following files are attached,
+1.Coding file in Jupyter Notebook(Devanagari.ipynb)
+2.Presentation file (Devanagari_presentation.ppt)
+3.kaggle.json
+4.Project report (Project_Report.pdf)
+
+-----------------------------------------------------------------
+Instruction for jupyter notebook file
+1.Upload the jupyter notebook into google colab
+2.In 4th cell it will ask a json file to download the data from kaggle
+3.Upload the kaggle.json file then.
+
+-----------------------------------------------------------------
+Links for the data files.
+1.https://www.kaggle.com/gopendu/devnagari-deeplearn
+2.https://www.kaggle.com/ashokpant/devanagari-character-dataset
